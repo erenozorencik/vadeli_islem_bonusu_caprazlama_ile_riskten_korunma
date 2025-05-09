@@ -59,6 +59,6 @@ Bunun arkasında yatan sebep hesapların bakiyeleri büyüdükçe elde edilen ka
  
 Örnekte görüldüğü gibi 4 hesabı kendi aralarında çaprazladığımızda hesap başına düşen çekilebilir miktar %50 artış gösterdi.
 
-Şimdi kaç hesap ile çaprazlarsak , hesap başına düşen çekilebilir bakiyekaç olur ona bakalım :
+Şimdi kaç hesap ile çaprazlarsak , hesap başına düşen çekilebilir bakiye kaç olur ona bakalım :
 
 ![grafik](https://github.com/user-attachments/assets/4a00247a-91d8-4977-b76b-e6cb41709c7e)
