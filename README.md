@@ -8,6 +8,8 @@ Kurallar :
 
 -Bonus çekilemez; yalnızca işlemlerden elde edilen kâr çekilebilir.
 
+-Bakiye çekildiğinde bonus silinir.
+
 Strateji :
 
 -Hesaplara tanımlanan vadeli işlem bonusunu hedge ederek riske girmeden bakiyenin bir kısmı çekilebilir.
