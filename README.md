@@ -58,6 +58,11 @@ Her hesabı kendi içinde çaprazlamak yerine hesapları birbirleri ile çaprazl
 
 Şimdi kaç hesap ile çaprazlarsak , hesap başına düşen çekilebilir bakiye kaç olur ona bakalım :
 
+Hesap Başına Çekilebilir Bakiye Formülü = B x n - 1 / n
+
+B = Başlangıç Bakiyesi
+n = Çaprazlanan Hesap Sayısı
+
 ---
 
 ## 📊 Hesap Başına Çekilebilir Bakiye Grafiği
